@@ -1,6 +1,5 @@
 {    
     "name": "IPTV by albug",
     "version": "1.0.0",
-    "parameter": "menu:https://albug020.github.io/msx/data/menu.json",
-    "welcome": "none"
+    "parameter": "menu:https://albug020.github.io/msx/data/menu.json"
 }
