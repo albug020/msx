@@ -1,5 +1,6 @@
 {    
     "name": "IPTV by albug",
     "version": "1.0.0",
+    "dictionary": "https://wals09.github.io/msx/dictionary.json",
     "parameter": "menu:https://albug020.github.io/msx/data/menu.json"
 }
