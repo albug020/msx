@@ -1,0 +1,36 @@
+{
+  {
+    "icon": "info",
+    "label": "Welcome",
+    "data": "https://benzac-de.github.io/msx/data/welcome.json"
+  },
+  "menu": [
+    {
+      "type": "separator",
+      "label": "Base"
+    },
+    {
+      "icon": "movie",
+      "label": "Videos",
+      "data": "https://github.com/albug020/msx/raw/refs/heads/main/data/videos.json"
+    },
+    {
+      "type": "separator",
+      "label": "Extended - Lists"
+    },
+    {
+      "icon": "view-stream",
+      "label": "First List",
+      "data": "https://benzac-de.github.io/msx/data/extended/list0.json"
+    },
+    {
+      "type": "separator",
+      "label": "Extended - Pages"
+    },
+    {
+      "icon": "view-array",
+      "label": "First Pages",
+      "data": "https://benzac-de.github.io/msx/data/extended/pages0.json"
+    },
+  ]
+)
