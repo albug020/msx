@@ -1,6 +1,6 @@
 {    
     "name": "Онлайн-кинотеатр Albug",
     "version": "1.0.0",
-    "dictionary": "https://albug020.github.io/msx/dictionary.json",
+    "dictionary": "https://albug020.github.io/msx/dic/ru.json",
     "parameter": "menu:https://albug020.github.io/msx/data/menu.json"
 }
