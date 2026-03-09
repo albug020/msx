@@ -24,7 +24,7 @@
                                 "image": "http://kb-team.club/msx/img/playtvs.png",
                                 "iconSize": "large",
                                 "label": "{col:#ced6e0}Кинозалы",
-                                "action": "content:http://kb-team.club/msx/kinozal.php?device=acace24b8434"
+                                "action": "content:http://kb-team.club/msx/kinozal.php?device=ca953088f371"
                             },
                             {
                                 "type": "button",
@@ -32,7 +32,7 @@
                                 "image": "http://kb-team.club/msx/img/bigtv.png",
                                 "iconSize": "large",
                                 "label": "{col:#ced6e0}Телеканалы",
-                                "action": "content:http://kb-team.club/msx/tv.php?device=acace24b8434"
+                                "action": "content:http://kb-team.club/msx/tv.php?device=ca953088f371"
                             },
                             {
                                 "type": "button",
@@ -40,7 +40,7 @@
                                 "image": "http://kb-team.club/msx/img/kbc-main.png",
                                 "iconSize": "large",
                                 "label": "{col:#ced6e0}KBC TV",
-                                "action": "content:http://kb-team.club/msx/iptv/iptvk.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+KBC&device=acace24b8434"
+                                "action": "content:http://kb-team.club/msx/iptv/iptvk.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+KBC&device=ca953088f371"
                             },
                             {
                                 "type": "button",
@@ -48,7 +48,7 @@
                                 "image": "http://kb-team.club/msx/img/tvmusic.png",
                                 "iconSize": "large",
                                 "label": "{col:#ced6e0}Музыка",
-                                "action": "menu:http://kb-team.club/msx/music/music.php?device=acace24b8434"
+                                "action": "menu:http://kb-team.club/msx/music/music.php?device=ca953088f371"
                             },
                             {
                                 "type": "button",
@@ -56,7 +56,7 @@
                                 "image": "http://kb-team.club/msx/img/usertv.png",
                                 "iconSize": "large",
                                 "label": "{col:#ced6e0}Аккаунт",
-                                "action": "execute:info:extended:http://kb-team.club/msx/info.php?device=acace24b8434"
+                                "action": "execute:info:extended:http://kb-team.club/msx/info.php?device=ca953088f371"
                             }
                         ]
                     }
