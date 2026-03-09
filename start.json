@@ -1,5 +1,5 @@
 {    
-    "name": "IPTV by albug",
+    "name": "Онлайн-кинотеатр Albug",
     "version": "1.0.0",
     "dictionary": "https://albug020.github.io/msx/dictionary.json",
     "parameter": "menu:https://albug020.github.io/msx/data/menu.json"
