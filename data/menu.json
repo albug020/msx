@@ -8,55 +8,55 @@
             "data": {
                 "headline": "",
                 "transparent": 2,
-                "background": "http:\/\/kb-team.club\/msx\/img\/darkb.jpg?5",
+                "background": "http://kb-team.club/msx/img/darkb.jpg?5",
                 "pages": [
                     {
                         "items": [
                             {
                                 "type": "space",
                                 "layout": "4,0,4,2",
-                                "image": "http:\/\/kb-team.club\/msx\/img\/msx-logo.svg",
+                                "image": "http://kb-team.club/msx/img/msx-logo.svg",
                                 "iconSize": "large"
                             },
                             {
                                 "type": "button",
                                 "layout": "1,2,2,3",
-                                "image": "http:\/\/kb-team.club\/msx\/img\/playtvs.png",
+                                "image": "http://kb-team.club/msx/img/playtvs.png",
                                 "iconSize": "large",
-                                "label": "{col:#ced6e0}\u041a\u0438\u043d\u043e\u0437\u0430\u043b\u044b",
-                                "action": "content:http:\/\/kb-team.club\/msx\/kinozal.php?device=ca953088f371"
+                                "label": "{col:#ced6e0}Кинозалы",
+                                "action": "content:http://kb-team.club/msx/kinozal.php?device=acace24b8434"
                             },
                             {
                                 "type": "button",
                                 "layout": "3,2,2,3",
-                                "image": "http:\/\/kb-team.club\/msx\/img\/bigtv.png",
+                                "image": "http://kb-team.club/msx/img/bigtv.png",
                                 "iconSize": "large",
-                                "label": "{col:#ced6e0}\u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b\u044b",
-                                "action": "content:http:\/\/kb-team.club\/msx\/tv.php?device=ca953088f371"
+                                "label": "{col:#ced6e0}Телеканалы",
+                                "action": "content:http://kb-team.club/msx/tv.php?device=acace24b8434"
                             },
                             {
                                 "type": "button",
                                 "layout": "5,2,2,3",
-                                "image": "http:\/\/kb-team.club\/msx\/img\/kbc-main.png",
+                                "image": "http://kb-team.club/msx/img/kbc-main.png",
                                 "iconSize": "large",
                                 "label": "{col:#ced6e0}KBC TV",
-                                "action": "content:http:\/\/kb-team.club\/msx\/iptv\/iptvk.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+KBC&device=ca953088f371"
+                                "action": "content:http://kb-team.club/msx/iptv/iptvk.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+KBC&device=acace24b8434"
                             },
                             {
                                 "type": "button",
                                 "layout": "7,2,2,3",
-                                "image": "http:\/\/kb-team.club\/msx\/img\/tvmusic.png",
+                                "image": "http://kb-team.club/msx/img/tvmusic.png",
                                 "iconSize": "large",
-                                "label": "{col:#ced6e0}\u041c\u0443\u0437\u044b\u043a\u0430",
-                                "action": "menu:http:\/\/kb-team.club\/msx\/music\/music.php?device=ca953088f371"
+                                "label": "{col:#ced6e0}Музыка",
+                                "action": "menu:http://kb-team.club/msx/music/music.php?device=acace24b8434"
                             },
                             {
                                 "type": "button",
                                 "layout": "9,2,2,3",
-                                "image": "http:\/\/kb-team.club\/msx\/img\/usertv.png",
+                                "image": "http://kb-team.club/msx/img/usertv.png",
                                 "iconSize": "large",
-                                "label": "{col:#ced6e0}\u0410\u043a\u043a\u0430\u0443\u043d\u0442",
-                                "action": "execute:info:extended:http:\/\/kb-team.club\/msx\/info.php?device=ca953088f371"
+                                "label": "{col:#ced6e0}Аккаунт",
+                                "action": "execute:info:extended:http://kb-team.club/msx/info.php?device=acace24b8434"
                             }
                         ]
                     }
