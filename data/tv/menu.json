@@ -1,0 +1,256 @@
+{
+  "headline": "{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{col:#ced6e0}Тв{ico:#fbc531:looks-4}",
+  "background": "http://kb-team.club/msx/img/darkb.jpg",
+  "transparent": 2,
+  "style": "flat-separator",
+  "menu": [
+    {
+      "type": "separator",
+      "lineColor": "#fbc531"
+    },
+    {
+      "icon": "#fbc531:star",
+      "label": "Мои Каналы",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=mine&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Все Каналы",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=all&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Федеральные",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Плюсовые",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9F%D0%BB%D1%8E%D1%81%D0%BE%D0%B2%D1%8B%D0%B5&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Информационные",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "UHD | 4K",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=UHD+%7C+4K&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Киноканалы",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры KBC",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+KBC&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры BCU",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+BCU&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры BOX",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+BOX&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры MM",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+MM&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры Play-x",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+Play-x&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры Olsib",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+Olsib&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры CineMan",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+CineMan&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры SKY HIGH",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+SKY+HIGH&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры Fresh",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+Fresh&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры Magic",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+Magic&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры Kernel TV",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+Kernel+TV&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры VeleS",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+VeleS&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры Liberty",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+Liberty&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры NEXT",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+NEXT&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры KLI",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+KLI&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры Чебур ТВ",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+%D0%A7%D0%B5%D0%B1%D1%83%D1%80+%D0%A2%D0%92&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры Catcast",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+Catcast&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Спортивные",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Познавательные",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9F%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Музыкальные",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Детские",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Развлекательные",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A0%D0%B0%D0%B7%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Региональные | Regional",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%7C+Regional&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Узбекистан | Ozbek",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD+%7C+Ozbek&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Казахстан | Қазақстан",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD+%7C+%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%81%D1%82%D0%B0%D0%BD&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Таджикистан | Точик",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD+%7C+%D0%A2%D0%BE%D1%87%D0%B8%D0%BA&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Украина | Українські",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0+%7C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Беларусь | Беларускія",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C+%7C+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D1%96%D1%8F&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Турция | Türk",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F+%7C+T%C3%BCrk&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кинотеатры DiTV",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B+DiTV&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Саудовская Аравия | Saudi Arabia",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A1%D0%B0%D1%83%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D1%8F+%7C+Saudi+Arabia&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Молдавия | Moldovenească",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B2%D0%B8%D1%8F+%7C+Moldoveneasc%C4%83&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Армения | Հայկական",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F+%7C+%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Израиль | ישראלי",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C+%7C+%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Прибалтика | Baltics",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9F%D1%80%D0%B8%D0%B1%D0%B0%D0%BB%D1%82%D0%B8%D0%BA%D0%B0+%7C+Baltics&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "США | USA",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%A1%D0%A8%D0%90+%7C+USA&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Польша | Poland",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%7C+Poland&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Азербайджан | Azərbaycan",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD+%7C+Az%C9%99rbaycan&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Кыргызстан | Kyrgyzstan",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD+%7C+Kyrgyzstan&device=acace24b8434"
+    },
+    {
+      "icon": "#fbc531:tv",
+      "label": "Оригинальные каналы",
+      "data": "http://kb-team.club/msx/iptv/iptvf.php?category=%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B&device=acace24b8434"
+    },
+    {
+      "type": "separator",
+      "lineColor": "#fbc531"
+    }
+  ]
+}
