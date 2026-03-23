@@ -1,8 +1,4 @@
 {
-  "headline": "{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{sp}{col:#ced6e0}Тв{ico:#fbc531:looks-4}",
-  "background": "http://kb-team.club/msx/img/darkb.jpg",
-  "transparent": 2,
-  "style": "flat-separator",
   "menu": [
     {
       "type": "separator",
