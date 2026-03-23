@@ -32,7 +32,7 @@
                                 "image": "http://kb-team.club/msx/img/bigtv.png",
                                 "iconSize": "large",
                                 "label": "{col:#ced6e0}Телеканалы",
-                                "action": "content:https://albug020.github.io/msx/data/tv/tv.json"
+                                "action": "menu:https://albug020.github.io/msx/data/tv/tv.json"
                             },
                             {
                                 "type": "button",
